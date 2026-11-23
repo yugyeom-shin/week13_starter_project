@@ -10,7 +10,7 @@ export default function App() {
       <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
-          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
+          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13 / syggggggg</p>
           <h1>Build. Analyze. Deploy. Connect.</h1>
           <p>
             One small React project for GitHub collaboration, component analysis,
